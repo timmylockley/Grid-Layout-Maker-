@@ -40,4 +40,5 @@ Design something like architectural sketches, pixel art, or schematic-like diagr
 
 ## License
 
-This project is open source under the MIT License.
+   GNU GENERAL PUBLIC LICENSe
+   Version 3, 29 June 2007
